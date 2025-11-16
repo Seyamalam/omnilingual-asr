@@ -4,6 +4,7 @@ Utilities and examples for preparing multilingual speech datasets for efficient 
 
 ## Quick Start Guides
 
+- **[Quick Start: Fine-Tuning](./QUICKSTART.md)** - 5-minute guide to get started with your own data
 - **[Fine-Tuning with Custom WAV Dataset](./CUSTOM_DATASET_GUIDE.md)** - Complete guide for fine-tuning models with your own audio data
 - **[Custom Dataset Converter](./custom_dataset_to_parquet.py)** - Script to convert custom datasets to parquet format
 
