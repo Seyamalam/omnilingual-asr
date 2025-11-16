@@ -2,6 +2,14 @@
 
 Utilities and examples for preparing multilingual speech datasets for efficient training and data loading. The preparation scripts convert popular HuggingFace audio datasets into a standardized format optimized for massively multilingual speech model training.
 
+## Quick Start Guides
+
+- **[Quick Start: Fine-Tuning](./QUICKSTART.md)** - 5-minute guide to get started with your own data
+- **[Fine-Tuning with Custom WAV Dataset](./CUSTOM_DATASET_GUIDE.md)** - Complete guide for fine-tuning models with your own audio data
+- **[End-to-End Training + Submission Script](./SUBMISSION_SCRIPT_README.md)** - Complete workflow from data to Kaggle submission
+- **[Custom Dataset Converter](./custom_dataset_to_parquet.py)** - Script to convert custom datasets to parquet format
+- **[Training + Submission Script](./omniasr_finetune_submission.py)** - All-in-one script for fine-tuning and generating submissions
+
 ## 1. Installation
 
 Install the required dependencies:

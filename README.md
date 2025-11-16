@@ -32,6 +32,8 @@ Omnilingual ASR is an open-source speech recognition system supporting over 1,60
 - **[Asset Management](src/omnilingual_asr/cards/README.md)** - Configuration system for models, tokenizers, and datasets
 
 ### Training & Data Pipeline
+- **[Quick Start: Fine-Tuning](workflows/dataprep/QUICKSTART.md)** - 5-minute guide to get started with your own data
+- **[Fine-Tuning with Custom Data](workflows/dataprep/CUSTOM_DATASET_GUIDE.md)** - Step-by-step guide for fine-tuning models with your own WAV audio dataset
 - **[Data Preparation](workflows/dataprep/README.md)** - End-to-end guide for multilingual dataset preparation, HuggingFace integration, and parquet processing
 - **[Training Recipes](workflows/recipes/wav2vec2/asr/README.md)** - Pre-configured workflows for CTC and LLM model training
 
